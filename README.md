@@ -10,4 +10,4 @@ go run .
 
 telnet localhost 8888
 
-![alt text](https://github.com/[TrHung-297/chat_inTCP.git/.image/image.png?raw=true)
+![alt text](https://https://github.com/TrHung-297/chat_inTCP/blob/main/.image/image.PNG?raw=true)
